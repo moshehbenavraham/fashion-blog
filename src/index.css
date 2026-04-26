@@ -4,8 +4,8 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Perspective Blog Design System - Warm & Vibrant */
-/* Variables use --color-* naming + OKLCH format for Lovable theme compatibility */
+/* Vesper Design System - Warm & Vibrant */
+/* Variables use --color-* naming + OKLCH format for maintainable theme tokens */
 
 @layer base {
   :root {
